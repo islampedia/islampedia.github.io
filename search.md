@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /cari
 ---
 
 <div id="cse-search-results"></div>
