@@ -32,6 +32,6 @@ Bagaimana lagi jika terlewat satu jam, satu hari, atau satu malam tanpa dzikrull
 
 Semoga contoh salaf di atas bisa menjadi tauladan terbaik. _Wallahu waliyyut taufiq_.
 
-Sumber Tulisan: [rumaysho.com][rumaysho]
+Sumber: [rumaysho.com][rumaysho]
 
 [rumaysho]: https://rumaysho.com/12303-bagaimana-ulama-membagi-waktu.html
