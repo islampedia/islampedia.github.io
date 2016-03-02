@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Apakah Dosa Meninggalkan Amalan Sunnah"
-date:   2016-02-28 18:59:00 +0700
+date:   2016-03-02 06:59:00 +0700
 categories:
 - amalan
 tags:
