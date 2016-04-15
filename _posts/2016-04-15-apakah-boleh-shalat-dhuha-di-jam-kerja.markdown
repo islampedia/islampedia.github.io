@@ -1,3 +1,16 @@
+---
+layout: post
+title:  "Apakah Boleh Shalat Dhuha di Jam Kerja?"
+date:   2016-04-15 11:50:00 +0700
+categories:
+- shalat
+tags:
+- shalat
+- dhuha
+- hukum islam
+excerpt: "Hukum Islam mengenai sholat dhuha di jam kerja"
+---
+
 Perlu diketahui bahwa hukum asal shalat sunnah adalah di rumah. Hal ini berdasarkan sabda Nabi shallallahu ‘alaihi wa sallam,
 
 أَفْضَلُ صَلاَةِ المَرْءِ فِي بَيْتِهِ إِلاَّ المَكْتُوْبَة
