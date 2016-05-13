@@ -26,4 +26,6 @@ syiah adalah kelompok yang dibentuk oleh orang yahudi. Kaum muslimin harap membu
 
 Syiah merupakan kelompok yang sesat dan salah. Mereka dibentuk oleh orang Yahudi bernama Abdullah bin Saba', mereka mengatasnamakan Islam. Tidak layak ada di tengah - tengah kaum muslimin.
 
-Di zaman Nabi Shallallahu ‘alaihi Wa Sallam pada saat orang - orang ada yang memfitnah Aisyah radianha
+Di zaman Nabi Shallallahu ‘alaihi Wa Sallam pada saat orang - orang ada yang memfitnah Aisyah radianha, Abdullah bin Abi Salul pimpinan orang munafikin dicambuk 80 jera karena tidak terbukti Aisyah berzina. Itu hanya menuduh berzina.
+
+Orang - orang Syiah sekarang mengkafirkan Aisyah ra. Artinya saat ini jauh lebih besar dibandingkan tuduhan Aisyah berzina.
