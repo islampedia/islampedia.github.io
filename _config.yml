@@ -19,8 +19,8 @@ paginate_path: /page/:num
 logo: assets/images/search-icon-black.png
 # author:
 #   twitter: jekyllrb
-# twitter:
-#   username: jekyllrb
+twitter:
+  username: islampediaID
 
 # Build settings
 markdown: kramdown

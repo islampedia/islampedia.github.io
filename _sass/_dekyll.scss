@@ -217,3 +217,49 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
+
+#cse-search-box {
+  position: relative;
+  margin-bottom: 10px;
+  font-size: 22px;
+
+  [name="q"] {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -ms-appearance: none;
+    -o-appearance: none;
+    appearance: none;
+    -webkit-transition: border-color;
+    -moz-transition: border-color;
+    transition: border-color;
+    background-color: white;
+    border: 1px solid gainsboro;
+    box-sizing: border-box;
+    display: block;
+    font-size: 0.6em;
+    margin: 0;
+    padding: 0.5em;
+    position: relative;
+    width: 100%;
+  }
+
+  [name="sa"] {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -ms-appearance: none;
+    -o-appearance: none;
+    position: absolute;
+    top: 0em;
+    right: 0em;
+    bottom: 0em;
+    outline: none;
+    padding: 5px 10px;
+    border: none;
+    background: lightgrey;
+
+    img {
+      height: 12px;
+      opacity: 0.7;
+    }
+  }
+}
