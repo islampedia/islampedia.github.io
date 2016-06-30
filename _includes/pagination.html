@@ -1,21 +1,21 @@
 <div class="pagination">
   <div class="previous">
     {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}">&laquo; Sebelumnya</a>
+      <a href="{{ paginator.previous_page_path }}">&laquo; Prev</a>
     {% else %}
-      <span>&laquo; Sebelumnya</span>
+      <span>&laquo; Prev</span>
     {% endif %}
   </div>
 
   <div class="center">
-    <span class="page_number">{{ paginator.page }} dari {{ paginator.total_pages }}</span>
+    <span class="page_number">{{ paginator.page }} / {{ paginator.total_pages }}</span>
   </div>
 
   <div class="next">
     {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}">Selanjutnya &raquo;</a>
+      <a href="{{ paginator.next_page_path }}">Next &raquo;</a>
     {% else %}
-      <span>Selanjutnya &raquo;</span>
+      <span>Next &raquo;</span>
     {% endif %}
   </div>
 </div>
