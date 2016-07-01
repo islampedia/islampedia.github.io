@@ -3,7 +3,7 @@ layout: post
 title:  "Sumur Usman"
 date:   2016-07-02 23:29:00 +0700
 categories:
-- kisah inspiratif
+- amalan
 tags:
 - amalan
 - shodaqoh
