@@ -29,3 +29,20 @@ Syiah merupakan kelompok yang sesat dan salah. Mereka dibentuk oleh orang Yahudi
 Di zaman Nabi Shallallahu ‘alaihi Wa Sallam pada saat orang - orang ada yang memfitnah Aisyah radianha, Abdullah bin Abi Salul pimpinan orang munafikin dicambuk 80 jera karena tidak terbukti Aisyah berzina. Itu hanya menuduh berzina.
 
 Orang - orang Syiah sekarang mengkafirkan Aisyah ra. Artinya saat ini jauh lebih besar dibandingkan tuduhan Aisyah berzina.
+
+Nabi bersabda bahwa siapa yang mengkafirkan seorang muslim, maka kalimat kafir itu akan kembali kepada salah satu dari keduanya.
+
+Kalau kita pertemukan orang yang sekarang menuduh dengan Aisyah radianha yang disebut Ummi Mukminin yaitu Ibunya orang - orang beriman, sangat berbeda jauh.
+
+Orang Islam saja haram untuk menikahi salah satu istri Nabi walaupun pada saat itu Aisyah lebih mudah dibandingkan para sahabat.
+
+Orang Syiah mengatakan Aisyah kafir, berarti Nabi salah pilih istri dong karena pilih orang kafir?
+
+Kita tahu dalam konsep agama Islam dan orang - orang Syiah yang mengaku Islam pun tahu, jika pasangan suami istri tidak bercerai di dunia,
+maka mereka akan bersama di Akhirat.
+
+Sampai Nabi meninggal Aisyah tetap dibawah naungan Nabi SAW. Artinya, jelas Aisyah akan bersama Nabi SAW di Surga.
+
+Belum lagi ada hadits riwayat Hakim, kata Rasul: Saya tidak dinikahkan oleh Allah(artinya pernikahaan Nabi Allah yang atur), kecuali
+
+Hadits Rasul tidak diakui oleh Syiah karena sahabat pun dikarfirkan oleh orang Syiah.
